@@ -1,0 +1,6 @@
+﻿1     Alcatel 5020X-M Pop      Alcatel             512MBSingle Core    NE        5         /Slike/sl1.jpg                6900      
+2     Lenovo K900, Steel Gray  Lenovo              2GB  Dual Core      13        5.5       /Slike/sl2.jpg                19990     
+3     Samsung S9               Samsung             4GB  Octa Core      12        5.8       /Slike/sl3.png                121990    
+4     Huawei P20 Pro           Huawei              6GB  Octa Core      20        6.1       /Slike/sl4.jpg                125990    
+5     Sony XZ2                 Sony                6GB  Octa Core      19        5.7       /Slike/sl5.jpg                123990    
+6     HTC U11                  HTC                 6GB  Octa Core      12        5.5       /Slike/sl6.jpg                78690     
